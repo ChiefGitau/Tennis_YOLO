@@ -1,0 +1,7 @@
+measurement,value_meters,description
+single_line_width,8.23,Singles court width
+double_line_width,10.97,Doubles court width
+half_court_height,11.88,Half court length
+service_line_width,6.4,Service line width
+double_alley_difference,1.37,Alley width difference
+no_mans_land_height,5.48,Service box depth
